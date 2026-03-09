@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Danielle Couillard
+# DATE: 03/09/26
+# BRIEF DESCRIPTION: grade converter
 
 
 
